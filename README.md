@@ -14,8 +14,6 @@
 
 一、基础入门
 
-- [x] Rust
-
 二、高级进阶
 
 三、视频教程
@@ -36,6 +34,8 @@
 
 ## 0x04-Rust安全
 
+- [ ] https://github.com/RustScan/RustScan
+
 ## 0x05-Rust逆向
 
 ## 0x06-Rust老师
@@ -44,8 +44,4 @@
 
 一、Rust教程资源
 
-- 
-
 二、Rust开发参考
-
-- 
