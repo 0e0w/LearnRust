@@ -30,6 +30,8 @@
 
 ## 0x02-Rust项目
 
+- [ ]	https://github.com/http-rs/tide
+
 ## 0x03-Rust框架
 
 ## 0x04-Rust安全
