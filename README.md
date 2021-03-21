@@ -2,7 +2,7 @@
 
 本项目记录自己学习Rust的过程中遇到的一些优秀内容，作者：[0e0w](https://github.com/0e0w/LearnRust)。
 
-本项目创建于2021年2月16日，最近一次更新时间为2021年2月21日。
+本项目创建于2021年2月16日，最近一次更新时间为2021年3月18日。
 
 - [0x01-Rust资源]()
 - [0x02-Rust项目]()
@@ -33,6 +33,7 @@
 ## 0x02-Rust项目
 
 - [ ] https://github.com/http-rs/tide
+- [ ] https://github.com/svenstaro/genact
 
 ## 0x03-Rust框架
 
