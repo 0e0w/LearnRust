@@ -20,6 +20,8 @@
 
 三、视频教程
 
+- [ ] https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x
+
 四、算法学习
 
 五、Web开发
