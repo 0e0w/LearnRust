@@ -2,7 +2,7 @@
 
 本项目记录自己学习Rust的过程中遇到的一些优秀内容，作者：[0e0w](https://github.com/0e0w/LearnRust)。
 
-本项目创建于2021年2月16日，最近一次更新时间为2021年3月21日。
+本项目创建于2021年2月16日，最近一次更新时间为2021年8月24日。
 
 - [0x01-Rust资源]()
 - [0x02-Rust项目]()
@@ -13,16 +13,15 @@
 ## 0x01-Rust资源
 
 一、基础入门
-
 - [ ] https://github.com/KaiserY/trpl-zh-cn
 
 二、高级进阶
 
 三、视频教程
-
 - [ ] https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x
 
 四、算法学习
+- [ ] https://github.com/douchuan/algorithm
 
 五、Web开发
 
