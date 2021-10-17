@@ -4,7 +4,7 @@
 
 关于Rust语言的学习教程，可以参考[《365天深入理解Rust语言》](https://github.com/0e0w/365Rust)。
 
-本项目创建于2021年2月16日，最近一次更新时间为2021年10月5日。
+本项目创建于2021年2月16日，最近一次更新时间为2021年10月17日。
 
 - [0x01-Rust资源]()
 - [0x02-Rust项目]()
@@ -20,6 +20,7 @@
 - [ ] https://github.com/KaiserY/trpl-zh-cn
 
 二、英文书籍
+- [ ] [《Rust in Action》](https://livebook.manning.com/book/rust-in-action/)
 
 三、视频教程
 - [ ] https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x
@@ -27,7 +28,6 @@
 四、培训演讲
 
 五、算法结构
-
 - [ ] https://github.com/douchuan/algorithm
 
 六、论坛版块
