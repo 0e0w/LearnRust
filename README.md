@@ -4,7 +4,7 @@
 
 关于Rust语言的学习教程，可以参考[《365天深入理解Rust语言》](https://github.com/0e0w/365Rust)。
 
-本项目创建于2021年2月16日，最近一次更新时间为2021年11月10日。
+本项目创建于2021年2月16日，最近一次更新时间为2021年11月14日。
 
 - [0x01-Rust资源]()
 - [0x02-Rust项目]()
@@ -48,6 +48,7 @@
 - [ ] https://github.com/RustScan/RustScan
 - [ ] https://github.com/0x727/ObserverWard_0x727
 - [ ] https://github.com/trickster0/OffensiveRust
+- [ ] https://github.com/kekeimiku/fairy
 
 ## 0x05-Rust逆向
 
