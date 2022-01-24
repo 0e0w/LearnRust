@@ -4,7 +4,7 @@
 
 关于Rust语言的学习教程，可以参考[《365天深入理解Rust语言》](https://github.com/0e0w/365Rust)。
 
-本项目创建于2021年2月16日，最近一次更新时间为2022年1月11日。
+本项目创建于2021年2月16日，最近一次更新时间为2022年1月24日。
 
 - [0x01-Rust资源]()
 - [0x02-Rust项目]()
@@ -35,7 +35,8 @@
 六、论坛版块
 
 七、其他资源
-- [ ]https://github.com/wubx/rust-in-databend
+- [ ] https://github.com/wubx/rust-in-databend
+- [ ] https://github.com/PhotonQuantum/magic-in-ten-mins-rs
 
 ## 0x02-Rust项目
 
