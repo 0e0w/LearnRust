@@ -4,7 +4,7 @@
 
 关于Rust语言的学习教程，可以参考[《365天深入理解Rust语言》](https://github.com/0e0w/365Rust)。
 
-本项目创建于2021年2月16日，最近一次更新时间为2022年2月1日。
+本项目创建于2021年2月16日，最近一次更新时间为2022年2月13日。
 
 - [0x01-Rust资源]()
 - [0x02-Rust项目]()
@@ -57,6 +57,7 @@
 - [ ] https://github.com/knownsec/ct
 - [ ] https://github.com/h4cnull/ratel
 - [ ] https://github.com/0x0021h/blackrust
+- [ ] https://github.com/editso/antsh
 
 ## 0x05-Rust逆向
 
