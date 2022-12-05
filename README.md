@@ -2,7 +2,7 @@
 
 本项目是记录自己在学习Rust语言的过程中遇到的一些优秀内容，包括优秀的学习资源或优秀的项目代码等。尽可能的熟练使用Rust语言，尽可能的深入理解Rust语言。学习Rust语言，面向未来编程！作者：[0e0w](https://github.com/0e0w/LearnGolang)。
 
-本项目创建于2021年2月16日，最近一次更新时间为2022年8月13日。
+本项目创建于2021年2月16日，最近一次更新时间为2022年12月5日。
 
 - [01-Rust资源]()
 - [02-Rust项目]()
@@ -36,6 +36,8 @@
 - [ ] https://github.com/rust-boom/rust-boom
 - [ ] https://github.com/wubx/rust-in-databend
 - [ ] https://github.com/PhotonQuantum/magic-in-ten-mins-rs
+- [ ] https://github.com/rustcc/writing-an-os-in-rust
+- [ ] https://github.com/tw93/Pake
 
 ## 02-Rust项目
 
@@ -60,6 +62,7 @@
 - [ ] https://github.com/kekeimiku/Meow
 - [ ] https://github.com/ekzhang/bore
 - [ ] https://github.com/EternalNight996/e-netscan
+- [ ] https://github.com/rapiz1/rathole
 
 ## 05-Rust逆向
 
